@@ -1,0 +1,1 @@
+ mongoexport --host localhost --db UberDataDb --collection uberData --csv --out uberData.csv --fields average,distance,date,time,start_coordinates

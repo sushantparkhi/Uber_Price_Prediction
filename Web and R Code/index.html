@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ride Scanner</title>
+
+    <!--JQuery--><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+    <!--JQuery Ends-->
+
+    <!--JQuery UI-->
+    <link rel="stylesheet" href="js/jqueryui/jquery-ui.css">
+    <script src="js/jqueryui/jquery-ui.js"></script>
+    <link rel="stylesheet" href="js/jqueryui/jquery-ui.structure.css">
+    <link rel="stylesheet" href="js/jqueryui/jquery-ui.theme.css">
+    <!--JQuery UI Ends-->
+
+    <!--AngularJS-->
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-route.js"></script>
+    <script src="//code.angularjs.org/1.5.6/angular-animate.min.js" ></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angularjs-toaster/1.1.0/toaster.min.js"></script>
+    <link href="//cdnjs.cloudflare.com/ajax/libs/angularjs-toaster/1.1.0/toaster.min.css" rel="stylesheet" />
+    <!--AngularJS Ends-->
+
+    <!--Bootstrap-->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.9.0.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.bundle.min.js"></script>
+
+    <!--Bootstrap Ends-->
+
+    <!--Google Maps API-->
+    <script src="//maps.googleapis.com/maps/api/js?libraries=places,placeses,visualization,drawing,geometry&key=AIzaSyCbgwVwu57APWKyav6x-clPxvp7FSidPNk"></script>
+    <!--Google Maps API Ends-->
+
+    <!--External Directives and Modules-->
+    <script src="js/ng-map.min.js"></script>
+    <script src="js/ngAutocomplete.js"></script>
+    <script src="js/angulartics.js"></script>
+    <script src="js/angulartics-ga.min.js"></script>
+    <script src="js/angular-chart.js"></script>
+
+    <!--External Directives and Modules Ends-->
+
+    <!--Custom Scripts-->
+    <script src="js/app.js"></script>
+    <script src="js/controller/login.js"></script>
+    <script src="js/controller/price.js"></script>
+
+
+    <!--Custom Scripts Ends-->
+
+    <!--Custom CSS-->
+    <link rel="stylesheet" href="css/style.css">
+    <!--Custom CSS Ends-->
+    <!--Google Analytics-->
+    <!--<script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-84567833-1', 'auto');
+        //ga('send', 'pageview');
+
+    </script>-->
+    <!--Google Analytics Ends-->
+  
+</head>
+<body ng-app="myApp">
+<toaster-container></toaster-container>
+<div ng-view></div>
+    <script type="text/javascript" src="//cdn.opencpu.org/opencpu-0.4.js"></script>
+    <script type="text/javascript">
+        ocpu.seturl("//public.opencpu.org/ocpu/library/base/R");
+        </script>
+</body>
+</html>

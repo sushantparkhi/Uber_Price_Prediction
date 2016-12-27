@@ -1,0 +1,369 @@
+{
+  "Boston": [
+    {
+      "Area": "Brighton"
+    },
+    {
+      "Area": "Allston"
+    },
+    {
+      "Area": "Allston Village"
+    },
+        {
+      "Area": "Chestnut Hill"
+    },
+    {
+      "Area": "Cleveland Circle"
+    },
+    {
+      "Area": "Union Square"
+    },
+    {
+      "Area": "Oak Square"
+    },
+    {
+      "Area": "Faneuil Square"
+    },
+    {
+      "Area": "Brighton Mills"
+    },
+    {
+      "Area": "Lower Allston"
+    },
+    {
+      "Area": "North Brighton"
+    },
+    {
+      "Area": "Packard's Corner"
+    },
+    {
+      "Area": "Soldier's Field"
+    },
+    {
+      "Area": "Back Bay"
+    },
+    {
+      "Area": "Copley Square"
+    },
+    {
+      "Area": "Commonwealth Avenue Mall"
+    },
+    {
+      "Area": "Newbury Street"
+    },
+    {
+      "Area": "Bay Village"
+    },
+    {
+      "Area": "Beacon Hill"
+    },
+    {
+      "Area": "Louisburg Square"
+    },
+    {
+      "Area": "Massachusetts State House"
+    },
+    {
+      "Area": "Charlestown"
+    },
+    {
+      "Area": "Bunker Hill"
+    },
+    {
+      "Area": "The Neck"
+    },
+    {
+      "Area": "Charlestown Navy Yard"
+    },
+    {
+      "Area": "Hayes Square"
+    },
+    {
+      "Area": "City Square Park Charlestown"
+    },
+    {
+      "Area": "Thompson Square"
+    },
+    {
+      "Area": "Sullivan Square"
+    },
+    {
+      "Area": "Chinatown"
+    },
+    {
+      "Area": "Dorchester"
+    },
+    {
+      "Area": "Adams Corner/Adams Village"
+    },
+    {
+      "Area": "Ashmont"
+    },
+    {
+      "Area": "Columbia Point"
+    },
+    {
+      "Area": "Cedar Grove"
+    },
+    {
+      "Area": "Fields Corner"
+    },
+    {
+      "Area": "Franklin Field"
+    },
+    {
+      "Area": "Grove Hall"
+    },
+    {
+      "Area": "Lower Mills"
+    },
+    {
+      "Area": "Jones Hill"
+    },
+    {
+      "Area": "Meeting House Hill"
+    },
+    {
+      "Area": "Neponset"
+    },
+    {
+      "Area": "Popes Hill"
+    },
+    {
+      "Area": "Port Norfolk"
+    },
+    {
+      "Area": "Savin Hill"
+    },
+    {
+      "Area": "Uphams Corner"
+    },
+    {
+      "Area": "Downtown Boston"
+    },
+    {
+      "Area": "Financial District"
+    },
+    {
+      "Area": "Downtown Crossing"
+    },
+    {
+      "Area": "Fort Hill Square"
+    },
+    {
+      "Area": "Government Center"
+    },
+    {
+      "Area": "Haymarket Square Boston"
+    },
+    {
+      "Area": "Post Office Square Boston"
+    },
+    {
+      "Area": "South Station"
+    },
+    {
+      "Area": "Boston Theater District"
+    },
+    {
+      "Area": "Waterfront"
+    },
+    {
+      "Area": "East Boston"
+    },
+    {
+      "Area": "Bennington Street"
+    },
+    {
+      "Area": "Central Square"
+    },
+    {
+      "Area": "Chelsea Street"
+    },
+    {
+      "Area": "Day Square"
+    },
+    {
+      "Area": "Jeffries Point"
+    },
+    {
+      "Area": "Logan International Airport"
+    },
+    {
+      "Area": "Maverick Square"
+    },
+    {
+      "Area": "Orient Heights"
+    },
+    {
+      "Area": "Fenway/Kenmore"
+    },
+    {
+      "Area": "Audubon Circle"
+    },
+    {
+      "Area": "Back Bay Fens"
+    },
+    {
+      "Area": "Kenmore Square"
+    },
+    {
+      "Area": "Boston University East"
+    },
+    {
+      "Area": "Longwood Medical Area"
+    },
+    {
+      "Area": "4 Yawkey Way Boston"
+    },
+    {
+      "Area": "Hyde Park"
+    },
+    {
+      "Area": "Readville"
+    },
+    {
+      "Area": "Fairmount Hill"
+    },
+    {
+      "Area": "Jamaica Plain"
+    },
+    {
+      "Area": "Hyde Square"
+    },
+    {
+      "Area": "Forest Hills"
+    },
+    {
+      "Area": "Moss Hill Boston"
+    },
+    {
+      "Area": "Mattapan"
+    },
+    {
+      "Area": "Wellington Hill"
+    },
+    {
+      "Area": "Mid Dorchester"
+    },
+    {
+      "Area": "Codman Square"
+    },
+    {
+      "Area": "Four Corners/Geneva"
+    },
+    {
+      "Area": "Mission Hill"
+    },
+    {
+      "Area": "Brigham Circle"
+    },
+    {
+      "Area": "Back of the Hill"
+    },
+    {
+      "Area": "Parker Hill"
+    },
+    {
+      "Area": "North End"
+    },
+    {
+      "Area": "Ann Street"
+    },
+    {
+      "Area": "Hanover Street"
+    },
+    {
+      "Area": "Roslindale"
+    },
+    {
+      "Area": "Roslindale Square"
+    },
+    {
+      "Area": "Roxbury"
+    },
+    {
+      "Area": "Dudley Square"
+    },
+    {
+      "Area": "Egleston Square"
+    },
+    {
+      "Area": "Fort Hill Boston"
+    },
+    {
+      "Area": "Roxbury Crossing"
+    },
+    {
+      "Area": "South Boston"
+    },
+    {
+      "Area": "Andrew Square"
+    },
+    {
+      "Area": "D Street"
+    },
+    {
+      "Area": "Fort Point"
+    },
+    {
+      "Area": "South Boston Waterfront"
+    },
+    {
+      "Area": "Charles Street"
+    },
+    {
+      "Area": "North Station"
+    },
+    {
+      "Area": "55 Fruit St Boston"
+    },
+    {
+      "Area": "West Roxbury"
+    },
+    {
+      "Area": "Parkway"
+    }
+  ],
+  "Cambridge": [
+    {
+      "Area": "East Cambridge"
+    },
+    {
+      "Area": "MIT"
+    },
+    {
+      "Area": "Wellington-Harrington"
+    },
+    {
+      "Area": "The Port"
+    },
+    {
+      "Area": "Cambridgeport"
+    },
+    {
+      "Area": "Mid-Cambridge"
+    },
+    {
+      "Area": "Riverside"
+    },
+    {
+      "Area": "Agassiz"
+    },
+    {
+      "Area": "Neighborhood Nine"
+    },
+    {
+      "Area": "West Cambridge"
+    },
+    {
+      "Area": "North Cambridge"
+    },
+    {
+      "Area": "Cambridge Highlands"
+    },
+    {
+      "Area": "Strawberry Hill"
+    }
+  ]
+}
